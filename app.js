@@ -37,6 +37,7 @@ const FORM_ENDPOINT = "https://formspree.io/f/TU_CODIGO";
               <label><input type="radio" name="franja" value="Mañana · 09:00 a 13:00" required> Mañana · 09:00 a 13:00</label>
               <label><input type="radio" name="franja" value="Mediodía · 13:00 a 16:00"> Mediodía · 13:00 a 16:00</label>
               <label><input type="radio" name="franja" value="Tarde · 16:00 a 20:00"> Tarde · 16:00 a 20:00</label>
+              <label><input type="radio" name="franja" value="A cualquier hora"> A cualquier hora</label>
             </div>
           </fieldset>
           <label class="privacidad">
